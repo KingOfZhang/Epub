@@ -1,20 +1,28 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F04C6C303A1F35B505CD569057215C7CE34D09CB",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760" : 0
+    "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760" : 0,
+    "F04C6C303A1F35B505CD569057215C7CE34D09CB" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AAE1CC4A-2CE2-43E8-A270-3C5B05CD68A4",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760" : "%E6%8E%8C%E4%B8%8A%E9%98%85%E8%AF%BB\/%E6%8E%8C%E4%B8%8A%E9%98%85%E8%AF%BB\/SDWebImage\/"
+    "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760" : "%E6%8E%8C%E4%B8%8A%E9%98%85%E8%AF%BB\/%E6%8E%8C%E4%B8%8A%E9%98%85%E8%AF%BB\/SDWebImage\/",
+    "F04C6C303A1F35B505CD569057215C7CE34D09CB" : "Epub\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "掌上阅读",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "掌上阅读.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KingOfZhang\/Epub.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F04C6C303A1F35B505CD569057215C7CE34D09CB"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/yangj.5166.info\/1000phone",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",

@@ -32,7 +32,7 @@
             <objects>
                 <navigationController navigationBarHidden="YES" id="837-Vz-Bss" sceneMemberID="viewController">
                     <nil key="simulatedTopBarMetrics"/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="V4q-bU-9kI">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="V4q-bU-9kI">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
@@ -68,7 +68,7 @@
             <objects>
                 <navigationController id="jfr-lt-DiT" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="首页" id="HWV-ZT-cxR"/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="Lic-8y-2LC">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="Lic-8y-2LC">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
@@ -114,7 +114,7 @@
             <objects>
                 <navigationController id="K5R-F7-jhg" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="咨讯" id="IdX-rf-bag"/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="7AM-a4-97H">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="7AM-a4-97H">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
@@ -131,7 +131,7 @@
             <objects>
                 <navigationController id="WH1-nK-DZQ" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="Book" id="5u3-RB-Xd6"/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="dR6-c9-LeU">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="dR6-c9-LeU">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
@@ -148,7 +148,7 @@
             <objects>
                 <navigationController id="XUj-ih-cI6" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="我的" id="mn2-gV-oqf"/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="cPZ-gf-1cA">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="cPZ-gf-1cA">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>

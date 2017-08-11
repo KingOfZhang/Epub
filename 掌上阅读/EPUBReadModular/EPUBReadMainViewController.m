@@ -1,9 +1,9 @@
 //
 //  EPUBReadMainViewController.m
-//  CommonReader
+//  掌上阅读
 //
-//  Created by fanzhenhua on 15/6/30.
-//  Copyright (c) 2015年 zjqzy. All rights reserved.
+//  Created by 易云时代 on 2017/8/10.
+//  Copyright © 2017年 易云时代_ZXW. All rights reserved.
 //
 #import <CommonCrypto/CommonDigest.h>   //算法 md5
 #import <CoreText/CoreText.h>

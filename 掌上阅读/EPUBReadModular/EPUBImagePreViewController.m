@@ -1,9 +1,9 @@
 //
 //  CImagePreViewController.m
-//  CAJViewer
+//  掌上阅读
 //
-//  Created by zhu on 14-3-28.
-//  Copyright (c) 2014年 zhu. All rights reserved.
+//  Created by 易云时代 on 2017/8/10.
+//  Copyright © 2017年 易云时代_ZXW. All rights reserved.
 //
 
 #import "EPUBReadMainViewController.h"
